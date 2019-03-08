@@ -8,3 +8,5 @@ Dip Switch, üzerinde birden fazla anahtar barındıran ve her bir anahtarı kar
 Her bir anahtar içerisine farkı kod blokları ekleyerek robotumuzun farklı hareket algoritmalarına göre hareket etmesini sağlayabiliriz.
 
 Böylece mücadele sırasında rakibimize göre taktik değiştirerek avantaj elde edebiliriz.
+
+Not: Uygulamalar Rokart Temel Robotik Kartı (Ver. 5) kullanılarak gerçekleştirilmiştir.
